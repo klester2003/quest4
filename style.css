@@ -1,0 +1,57 @@
+.title
+{
+    text-align: center;
+    text-shadow: 2px 2px aquamarine;
+}
+
+.first
+{
+    font-size: 30px;
+    margin-left: 20%;
+}
+.first-comment
+{
+    width: 700px;
+    text-align: center;
+}
+.ul
+{
+    margin-left: 20%;
+    border-style: solid;
+    width: 200px;
+    background-color: aquamarine;
+}
+.second
+{
+    font-size: 30px;
+    margin-left: 60%;
+}
+.second-list
+{
+    margin-left: 60%;
+    border-style: solid;
+    background-color: #32a850;
+    width: 300px;
+}
+.last
+{
+    font-size: 30px;
+    margin-left: 20%;
+}
+.last-list
+{
+    margin-left: 20%;
+    border-style: solid;
+    width: 200px;
+    background-color: blanchedalmond;
+}
+.image
+{
+   margin-left: 60%;
+   margin-top: -13%;
+}
+.last-image
+{
+    margin-top: -13%;
+    margin-left: 20%;
+}
